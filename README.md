@@ -1,2 +1,2 @@
 # Bergmann-Barbearia
-Prototipagem e modelagem de um sistema de agendamento para barbearia, incluindo diagramas e organização do trabalho. Focado na documentação e planejamento para futura implementação e melhorias baseadas nos requisitos levantados
+"Este repositório contém a prototipagem e modelagem de um sistema de agendamento para uma barbearia, desenvolvido como parte da disciplina de Engenharia de Software I. Inclui diagramas de casos de uso, sequência, atividades, estados e classes, elaborados no Visual Paradigm, além da organização das atividades utilizando a metodologia Kanban no Miro. O projeto foca na documentação e planejamento do sistema, visando futura implementação e aprimoramento com base nos requisitos levantados."
