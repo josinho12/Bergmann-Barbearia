@@ -22,9 +22,9 @@ Este repositório contém a documentação e modelagem de um sistema de agendame
 
 Estrutura do Repositório
 
-Diagramas: Arquivos UML representando os diversos aspectos do sistema.
+[Diagramas](https://github.com/josinho12/Bergmann-Barbearia/tree/main/UML): Arquivos UML representando os diversos aspectos do sistema.
 
-Documentação: Detalhamento dos requisitos e descrição do projeto.
+[Documentação](https://github.com/josinho12/Bergmann-Barbearia/tree/main/Documentos): Detalhamento dos requisitos e descrição do projeto.
 
 ⏭️ Próximos Passos
 
